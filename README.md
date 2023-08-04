@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#  👨‍💻 Velog Link -> https://velog.io/@qkre
-#  🙏 Instargram Link -> https://www.instagram.com/qkre2018/
+#  👨‍💻 Velog Link -> velog.io/@qkre
+#  🙏 Instargram Link -> instagram.com/qkre2018/
