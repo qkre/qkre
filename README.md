@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 #  👨‍💻 Velog Link -> https://velog.io/@qkre
-#  🙏 Instargram Link -> https://instagram.com/qkre2018/
+#  🙏 Instargram Link -> [https://instagram.com/qkre2018/]
