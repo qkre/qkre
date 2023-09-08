@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 #  👨‍💻 [Velog](https://velog.io/@qkre)
-#  🙏 [Instargram](https://instagram.com/qkre2018/)
+
