@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 -->
 
 #  👨‍💻 [Velog](https://velog.io/@qkre)
+#  👨‍💻 [Tistory](https://sarumani.tistory.com/)
 
